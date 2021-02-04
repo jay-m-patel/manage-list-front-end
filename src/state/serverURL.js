@@ -1,1 +1,1 @@
-export const serverURL = "http://localhost:8080"
+export const serverURL = "https://polar-dusk-88976.herokuapp.com"
