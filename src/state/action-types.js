@@ -1,0 +1,4 @@
+export const CSV_UPLOADED = "CSV_UPLOAEDED"
+export const DATA_LIST = "DATA_LIST"
+export const LOADING_DATA_LIST = "LOADING_DATA_LIST"
+export const SELECTED_ROWS = "SELECT_ROWS"
