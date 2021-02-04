@@ -146,12 +146,6 @@ const List = ({fetchData, data, loadingData, selectedRowsId, handleSelectedRowsI
                 return (
                 <Box
                     className={classes.table}
-                    // style={{
-                    // // borderRadius: '5px',
-                    // // overflow: 'hidden',
-                    // // padding: '15px'
-                    
-                    // }}
                 >
                     <Box className={classes.copyToClipBoard}>
                         <Button variant="outlined" color="primary" 
